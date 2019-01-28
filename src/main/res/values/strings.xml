@@ -1,3 +1,25 @@
 <resources>
-    <string name="app_name">proyectoFinalCynthia</string>
+    <string name="app_name">proyectoFinalAlonso</string>
+    <string name="action_settings">Settings</string>
+    <string name="noticias_titulo">Noticias</string>
+    <string name="podcast_titulo">Podcast</string>
+    <string name="radio_titulo">Radio en directo</string>
+    <string name="preferencias">Preferencias</string>
+    <string name="lista_emisoras">Lista de emisoras</string>
+    <string name="radio_en_directo">Radio en directo</string>
+    <string name="clear"></string>
+    <string name="iconVolumeDescription">Volumen</string>
+    <string name="drawer_open">navigation drawer abierto</string>
+    <string name="drawer_close">navigation drawer cerrado</string>
+    <string name="welcome_message">Bienvenido, %s</string>
+    <string name="sign_out">Cerrar sesión</string>
+    <string name="facebook_application_id"
+        translatable="false">704461216381540</string>
+    <string name="facebook_login_protocol_scheme"
+        translatable="false">fb704461216381540</string>
+    <string name="twitter_consumer_key"
+        translatable="false">l9BRh5efreJq7xHtKow29BvfP</string>
+    <string name="twitter_consumer_secret" translatable=
+        "false">ncTDNyaJpsUcLWhWEjP1bllgNjqL5fqzREy739XsA73tR0myQs</string>
+
 </resources>
